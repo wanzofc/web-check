@@ -1,6 +1,6 @@
-Contact: mailto:wanzofc@gmail.cpm
-Contact: mailto:wanzofc@gmail.cpm
-Expires: 2024-12-31T23:59:00.000Z
+Contact: mailto:wanzofc@gmail.com
+Contact: mailto:wanzofc@gmail.com
+Expires: 2025-12-31T23:59:00.000Z
 Encryption: wanzofc.us.kg
 Preferred-Languages: id
 Canonical: /security.txt
