@@ -138,7 +138,7 @@ const SiteFeaturesWrapper = styled(StyledCard)`
 `;
 
 const Home = (): JSX.Element => {
-  const defaultPlaceholder = 'e.g. https://duck.com/';
+  const defaultPlaceholder = 'e.g. https://wanzofc.us.kg';
   const [userInput, setUserInput] = useState('');
   const [errorMsg, setErrMsg] = useState('');
   const [placeholder] = useState(defaultPlaceholder);
@@ -267,8 +267,8 @@ const Home = (): JSX.Element => {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://terminaltrove.com/?utm_campaign=github&utm_medium=referral&utm_content=web-check&utm_source=wcgh">
-            <img width="120" alt="Terminal Trove" src="https://i.ibb.co/NKtYjJ1/terminal-trove-web-check.png" />
+            href="https://github.com/wanzbrayy">
+            <img width="120" alt="Terminal Trove" src="https://files.catbox.moe/7bfhfl.jpg" />
           </a>
         </div>
 
@@ -282,14 +282,13 @@ const Home = (): JSX.Element => {
           </ul>
         </div>
         <div className="links">
-          <a target="_blank" rel="noreferrer" href="https://github.com/lissy93/web-check" title="Check out the source code and documentation on GitHub, and get support or contribute">
+          <a target="_blank" rel="noreferrer" href="wanzofc.us.kg" title="Check free apikey">
             <Button>View on GitHub</Button>
           </a>
-          <a target="_blank" rel="noreferrer" href="https://app.netlify.com/start/deploy?repository=https://github.com/lissy93/web-check" title="Deploy your own private or public instance of Web-Check to Netlify">
-            <Button>Deploy your own</Button>
+          <a target="_blank" rel="noreferrer" href="https://github.com/wanzbrayy" title=" own">
+            <Button>own2</Button>
           </a>
-          <Link to="/about#api-documentation" title="View the API documentation, to use Web-Check programmatically">
-            <Button>API Docs</Button>
+          <Link to="wa.me/62895402567224" title="own">
           </Link>
         </div>
       </SiteFeaturesWrapper>
